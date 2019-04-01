@@ -1,0 +1,4 @@
+numpy>=16.00
+pandas
+matplotlib
+networkx
